@@ -51,3 +51,5 @@ for k in range(len(data)):
     pri = int(alphabetkey.index(let)) + 1
     priorities.append(pri)
 print(sum(priorities))
+
+# testing git commands
