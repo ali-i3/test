@@ -52,4 +52,4 @@ for k in range(len(data)):
     priorities.append(pri)
 print(sum(priorities))
 
-# testing git commands
+# testing git commands 
